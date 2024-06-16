@@ -9,7 +9,8 @@ const connectDB = require("./config/db");
 dotenv.config();
 
 //Router
-const userRoutes = require('./routes/userRoutes')
+const userRoutes = require('./routes/userRoutes');
+const blogRoutes = require('./routes/blogRoutes');
 
 //DB setup
 connectDB();
@@ -25,6 +26,7 @@ app.use(morgan("dev"));
 
 // Routes
 app.use("/api/v1/user", userRoutes);
+app.use("/api/v1/blog", blogRoutes);
 
 app.listen(PORT, () => {
   console.log(
