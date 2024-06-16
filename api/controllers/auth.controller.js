@@ -63,6 +63,7 @@ export const signin = async (req, res, next) => {
       })
       .json(rest);
   } catch (error) {
+    console.log("yahan fasa hai")
     next(error);
   }
 };
