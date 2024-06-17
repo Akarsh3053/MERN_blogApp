@@ -32,6 +32,6 @@ This blog app is a modern web application built using the MERN stack, combining 
 ## Live Demo
 <a href="https://text-book.onrender.com" target="_blank"><img src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0042.gif" /></a>
 
-If website might take some time to load at first as Render server goes to sleep, give it some time once its on it works magically.
+Website might take some time to load at first as Render server goes to sleep, give it some time once its on it works magically.
 
 
