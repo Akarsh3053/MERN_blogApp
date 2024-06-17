@@ -16,7 +16,9 @@ This blog app is a modern web application built using the MERN stack, combining 
 - Easy account management
 # Screenshots
  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3M2aNLs7NUNlAlkxqPGroFEd6gEYlA1Z4MWz9lBGOzesQJxcRGRsX6oPAkhVy4BbyAfMHO8s3NWJuUp4rVPLx8wzEdD5_ZKXC4jshiyWiv5SOYDUZHjBOaUh8kM8ZoVicVa5TyGmOz-KQlmE6sLWPkf6i2PofwwbF701VF_IiAJfQuNnK-CQxcoEWlQ8/s16000/Screenshot%202024-06-16%20202055.png">
+
 # Tech Used
+
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
       
 ### You will need following API keys to setup this project 
@@ -25,5 +27,11 @@ This blog app is a modern web application built using the MERN stack, combining 
 | MONGO | Your MongoDB connection URL |
 | JWT_SECRET | A secret string to be used for signing and verifying tokens. |
 | VITE_FIREBASE_API_KEY | Firebase key for OAuth and Cloud Storage to be stored as client side secret |
+
+
+## Live Demo
+<a href="https://text-book.onrender.com" target="_blank"><img src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0042.gif" /></a>
+
+If website might take some time to load at first as Render server goes to sleep, give it some time once its on it works magically.
 
 
